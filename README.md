@@ -1,5 +1,4 @@
-- 👋 Hi, I’m inna  
-- 📫 send me msg innashishani1@gmail.com 
+- 📫  innashishani1@gmail.com 
 
 <!---
 innawainakh/innawainakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
